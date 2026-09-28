@@ -28,7 +28,7 @@ const HomePage: NextPage = () => {
           <br />
           For site updates, see the{' '}
           <LinkWithIcon
-            url="https://github.com/neila/neila.github.io/commits/main/?author=neila"
+            url="https://github.com/i68s/i68s.github.io/commits/main/"
             text="Changelog"
           />
           .
